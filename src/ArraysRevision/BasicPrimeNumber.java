@@ -1,4 +1,4 @@
-package RevisionArray;
+package ArraysRevision;
 
 import java.util.Scanner;
 

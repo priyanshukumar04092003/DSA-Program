@@ -1,0 +1,10 @@
+package ArraysRevision;
+
+import java.util.Scanner;
+
+public class WaveArray {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+    }
+}

@@ -1,4 +1,4 @@
-package RevisionArray;
+package ArraysRevision;
 
 import java.util.Scanner;
          // Jo add karne mein number aayega usko String mein return karo mtlb  output jo

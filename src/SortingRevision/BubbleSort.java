@@ -1,8 +1,8 @@
-package RevisionArray;
+package SortingRevision;
 
 import java.util.Scanner;
 
-public class WaveArray {
+public class BubbleSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
